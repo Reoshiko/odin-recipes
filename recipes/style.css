@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+    font-family: 'Arial', sans-serif;
+}
+
+.back {
+    background-color: burlywood;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.header {
+    background-color: burlywood;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.header img {
+    width: 500px;
+    height: auto;
+}
+
+.content {
+    background-color: lightyellow;
+    padding: 30px;
+    margin: 10px;
+    font-size: 25px;
+}
