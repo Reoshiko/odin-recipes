@@ -1,3 +1,16 @@
 body {
     background-color: bisque;
 }
+
+.header {
+    background-color: burlywood;
+    padding: 10px;
+    text-align: center;
+}
+
+.recipes {
+    background-color: lightyellow;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
